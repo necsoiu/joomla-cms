@@ -53,4 +53,3 @@ JDEBUG ? $_PROFILER->mark('afterRender') : null;
 // Return the response.
 echo $app;
 // adaugat pentru proba
-// versiunea 1
